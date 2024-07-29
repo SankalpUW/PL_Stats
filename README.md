@@ -1,8 +1,10 @@
-# PremierZone
+# PremierHub
 
-PremierZone is a comprehensive project designed to scrape match statistics for over 700 players, manipulate and present the data dynamically, and predict match outcomes using machine learning. The project is divided into four main components: Backend, Frontend, Data Scraping, and Machine Learning.
+PremierHub is a comprehensive project designed to scrape match statistics for over 700 players, manipulate and present the data dynamically. The backend of this project was built using Java in a SpringBoot project. The project is divided into three main components: Backend, Frontend and Data Scraping
+<img width="1407" alt="342023225-022e82ae-5190-49a4-a15d-87fc8227a579" src="https://github.com/user-attachments/assets/db03c6b4-c088-4e9a-9e7a-fdb79a2f4fc6">
 
 Feel free to clone the project, just fixing a few issues with hosting it online currently, should be fixed within a few weeks...
+<img width="955" alt="CapturePL" src="https://github.com/user-attachments/assets/c1ba9745-59ed-475e-9bbf-312b82cba857">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
